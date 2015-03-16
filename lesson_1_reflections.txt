@@ -1,0 +1,19 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+The diff commands shows only the lines that have difference compared to the previous version. This helps me to focus on the changes and see what is wrong with the changes that I've made. It became easier for me to spot the mistakes.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+When my project gets bigger and bigger, it can be hard to manage it some times. And when I make a mistake in my project, it is better for me to be able to revert back any changes that caused troubles easily, so that my project would be easily manageable and I will have more time on thinking about new feature ideas and optimizaions, without worrying about breaking the project apart.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+Manually choosing when to commit may result in late commiting if the user is forgetful. It is important to choose the right time to commit, so this puts a burden onto the programmer. But it also makes the version control system more easy and practical to use if it is managed right by the programmer.
+
+How might using version control make you more confident to make changes that could break something?
+
+When you have something which works without any problems on your hands, it is harder to try out new features and stuff, because you fear that you will break what is already working. When you try something new and alter the working code, it gets hard to return back if you don't have version control.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I would like to use git for maintaining version control for my android learning project and my other possible programming projects in the future!
