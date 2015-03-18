@@ -8,7 +8,7 @@ Staging area allows people to choose which files to be committed on a single com
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-It may be helpful when we want to test a new idea without breaking the stable version of the game. While keeping the latest stable revision intact, we can create a new branch ad work on the experimental feature there instead of changing the original branch and reverting back to latest stable one when I need to add a regular feauture or a bug fix. 
+It may be helpful when we want to test a new idea without breaking the stable version of the game. While keeping the latest stable revision intact, we can create a new branch and work on the experimental features there instead of changing the original branch and reverting back to latest stable one when we need to add a regular feature or a bug fix. 
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do
 
