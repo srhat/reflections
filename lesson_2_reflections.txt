@@ -5,3 +5,11 @@ It sets up the necessary files for git to keep track of commits in that director
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 Staging area allows people to choose which files to be committed on a single commit, which makes it possible to group files that have logical connection to send them via a single commit. 
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+It may be helpful when we want to test a new idea without breaking the stable version of the game. While keeping the latest stable revision intact, we can create a new branch ad work on the experimental feature there instead of changing the original branch and reverting back to latest stable one when I need to add a regular feauture or a bug fix. 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do
+
+merging two branches results in combining changes in different commits into one single stream of commits. This is an automatic process and it can sometimes not be possible to complete the auto merging process due to conflicts. 
